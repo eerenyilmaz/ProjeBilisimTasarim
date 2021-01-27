@@ -1,0 +1,2 @@
+rootProject.name='ProjeBilisimTasarım'
+include ':app'

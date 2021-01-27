@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972107771709",
+    "project_id": "projeodevi-cd25c",
+    "storage_bucket": "projeodevi-cd25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972107771709:android:8a5ec2f811f0bf96dcdf54",
+        "android_client_info": {
+          "package_name": "com.example.projebilisimtasarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972107771709-n9lmp71abv6b8l4acbohvqf03k8du0s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkb0WKpXOZpPu5hY_Krt-rsOOGfn9jVeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972107771709-n9lmp71abv6b8l4acbohvqf03k8du0s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
